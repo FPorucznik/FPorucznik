@@ -1,7 +1,7 @@
 <h1 align ="center">Hello There 👋, my name is Filip and welcome to my profile! </h1>
 
 <h3> Some info about me:</h3>
-<p>I am currently in my third year of studying applied computer science and measurement systems at the University of Wrocław. My goal is to constantly develop my skills and deliver high quality work output in the it field of the market. I love programming and all of it started when i was younger and it amazed me how many modern technologies and websites work all thanks to lines of code so i decided to also learn this incredible power. Additionaly i am very interested in space exploration and modern AI inventions.</p>
+<p>I am currently in my third year of studying applied computer science and measurement systems at the University of Wrocław. My goal is to constantly develop my skills and deliver high quality work output in the IT field of the market. I love programming and all of it started when i was younger and it amazed me how many modern technologies and websites work all thanks to lines of code so i decided to also learn this incredible power. Additionaly i am very interested in space exploration and modern AI inventions.</p>
 
 <h3> I am currently developing my skills in:</h3>
 <br></br>
