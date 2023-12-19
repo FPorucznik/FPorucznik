@@ -7,11 +7,11 @@
 <br></br>
 
 <p float="left">
-    <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
-    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img alt="CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     <img alt="Django" src="https://img.shields.io/badge/Django-017040?style=for-the-badge&logo=django&logoColor=white" />
+    <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
+    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img alt="Postgresql" src="https://img.shields.io/badge/Postgresql-384447?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img alt="Docker" src="https://img.shields.io/badge/Docker-00ADE2?style=for-the-badge&logo=docker&logoColor=white" />
