@@ -12,7 +12,6 @@
     <img alt="Django" src="https://img.shields.io/badge/Django-017040?style=for-the-badge&logo=django&logoColor=white" />
     <img alt="Postgresql" src="https://img.shields.io/badge/Postgresql-384447?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img alt="Docker" src="https://img.shields.io/badge/Docker-00ADE2?style=for-the-badge&logo=docker&logoColor=white" />
-    <img alt="Material" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
     <img alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
