@@ -4,8 +4,6 @@
 <p>I am a passionate IT enthusiast. I have experience in using Python for development and automation. I also have knowledge in the field of Wi-Fi, Wi-Fi Mesh and networking. Additionally i am gaining commercial experience in the field of quality assurance and test engineering. I love to learn new technologies and skills that i can then use in a professional environment. My passion for development started when i was younger and it amazed me how many modern technologies and websites work all thanks to lines of code so i decided to also learn this incredible power. Additionaly i am very interested in space exploration, video games and modern AI inventions.</p>
 
 <h3> I am currently developing my skills in:</h3>
-<br></br>
-
 <p float="left">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img alt="Django" src="https://img.shields.io/badge/Django-017040?style=for-the-badge&logo=django&logoColor=white" />
