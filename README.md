@@ -18,8 +18,3 @@
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/Git-EF6018?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
-</h5>
-<br></br>
-<img alt = "" src = "https://github-readme-stats.vercel.app/api?username=fporucznik&count_private=true">
-</h5>
