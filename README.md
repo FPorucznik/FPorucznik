@@ -14,6 +14,4 @@
     <img alt="ML" src="https://img.shields.io/badge/ML-%23007ACC?style=for-the-badge&logo=googleai&logoColor=white" />
     <img alt="Docker" src="https://img.shields.io/badge/Docker-00ADE2?style=for-the-badge&logo=docker&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/Git-EF6018?style=for-the-badge&logo=git&logoColor=white" />
-    <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
