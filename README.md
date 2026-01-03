@@ -7,11 +7,13 @@
 <p float="left">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img alt="FastApi" src="https://img.shields.io/badge/FastAPI-%2300C4B7?style=for-the-badge&logo=fastapi&logoColor=white" />
+    <img alt="Pytest" src="https://img.shields.io/badge/Pytest-%23013243?style=for-the-badge&logo=pytest&logoColor=white" />
     <img alt="Django" src="https://img.shields.io/badge/Django-017040?style=for-the-badge&logo=django&logoColor=white" />
     <img alt="Numpy" src="https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white" />
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white" />
     <img alt="Scikit" src="https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
     <img alt="ML" src="https://img.shields.io/badge/ML-%23007ACC?style=for-the-badge&logo=googleai&logoColor=white" />
+    <img alt="Sqlalchemy" src="https://img.shields.io/badge/SQLAlchemy-%2300A1C9?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
     <img alt="Docker" src="https://img.shields.io/badge/Docker-00ADE2?style=for-the-badge&logo=docker&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/Git-EF6018?style=for-the-badge&logo=git&logoColor=white" />
 </p>
